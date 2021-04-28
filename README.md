@@ -5,12 +5,14 @@ Using in-memory storage, HTTP Server implements possibility to perform create an
 Instructions:
 
 JSON structure to send data (to save record or to get stored record):
+
 {
   “type”: [string],
   “name”: [string]
 }
 
 JSON structure of the data that can be returned:
+
 {
   “type”: [string],
   “name”: [string]
