@@ -26,6 +26,10 @@ or
 HTTP requests (all data receives and returns in JSON):
 
 /literature   - returns all literature stored in memory
+
 /store        - to save new record in storage or special response in case of unsuccessful execution
+
 /getlitname   - returns record that contains name provided in request or special response in case of unsuccessful execution
+
 /getlittype   - returns all records that contains type provided in request or special response in case of unsuccessful execution
+
